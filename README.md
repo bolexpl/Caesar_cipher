@@ -1,7 +1,7 @@
 # Caesar_cipher
-Caesar cipher implementation.\n
-OS: Linux\n
-Assembler: NASM
+Caesar cipher implementation. 
+(OS: Linux, 
+Assembler: NASM)
 
 # To compile
 nasm main.asm -f elf64 -o file.o

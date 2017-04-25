@@ -1,9 +1,9 @@
 # Caesar_cipher
-Caesar cipher implementation. 
+Implementacja szyfru cezara. 
 (OS: Linux, 
 Assembler: NASM)
 
-# To compile
+# Kompilacja
 $nasm main.asm -f elf64 -o file.o
-# To link
+# Linkowanie
 $ld file.o -o a.out

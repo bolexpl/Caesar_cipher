@@ -4,6 +4,6 @@ Caesar cipher implementation.
 Assembler: NASM)
 
 # To compile
-nasm main.asm -f elf64 -o file.o
+$nasm main.asm -f elf64 -o file.o
 # To link
-ld file.o -o a.out
+$ld file.o -o a.out

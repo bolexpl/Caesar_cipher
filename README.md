@@ -1,6 +1,6 @@
 # Caesar_cipher
-Caesar cipher implementation.
-OS: Linux
+Caesar cipher implementation.\n
+OS: Linux\n
 Assembler: NASM
 
 # To compile
